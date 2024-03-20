@@ -1,0 +1,17 @@
+.count-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .count-text {
+    margin-right: 10px;
+    color: aqua;
+  }
+  
+  .count-button1 {
+    margin-right: 40px;
+  }
+  .count-button2 {
+    margin-right: 80px;
+  }
+  
